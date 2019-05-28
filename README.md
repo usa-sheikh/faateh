@@ -1,4 +1,4 @@
-faateh
+# faateh
 Text adventure game to keep Faateh alive.
  _   __                 ______          _       _        ___  _ _           
 | | / /                 |  ___|        | |     | |      / _ \| (_)          
