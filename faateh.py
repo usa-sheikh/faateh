@@ -166,8 +166,8 @@ if ab in answer_B:
     if b10 in answer_A:
         print("BANG, BANG, BANG\n")
         print("\"Auntie, let me in!\"\n")
-        print("\"Quick, open the door!\"\n")
         print("BANG, BANG, BANG\n")
+        print("\"Quick, open the door!\"\n")
         print("Faateh\'s dad walks up behind him and kicks Faateh to the ground\n")
         print("\"Ah, my ACL!\"\n")
         print("Faateh gets whipped on the spot\n")
@@ -175,12 +175,12 @@ if ab in answer_B:
         print("Score: 0/10")
 
     if b10 in answer_B:
-        print("Faateh spots Bus 17 barreling down the road. Debby scoops him up, but Faateh notices his parents have gotten into the Odyssey and are in hot pursuit after him.\n")
+        print("Faateh spots Bus 17 barreling down the road. Debby the bus driver scoops him up, but Faateh notices his parents have gotten into the '01 Accord and are in hot pursuit after him.\n")
         b11 = input("A. Stay in the bus\nB. Run inside HHS\n")
 
     if b11 in answer_A:
         print("Faateh stays inside the bus as his parents walk up to the door\n")
-        print("Debby refuses to open the door, and after 2 hours of waiting his parents finally decide to go home\n")
+        print("Debby refuses to open the door, and after 2 hours of waiting his parents decide to go home\n")
         print(color.BOLD + "Faateh barely survives.\n" + color.END)
         print("Score: 8/10")
 
@@ -193,7 +193,7 @@ if ab in answer_B:
     if b9 in answer_B:
         print("Faateh cowers inside his closet. Dad opens the closet door and pulls out his whip\n")
         print("\"Dad, no!\"\n")
-        print("The last sound Faateh hears is the whiplash from the whip\n")
+        print("Faateh\'s vision goes dark\n")
         print(color.BOLD + "Faateh dies.\n" + color.END)
         print("Score: 0/10")
 
@@ -205,13 +205,13 @@ if ab in answer_B:
     if b7 in answer_B:
         print("By God\'s grace, Faateh miraculously slips past his mom and makes it out the door.\n")
         print("However, Evan Theodorough is waiting outside with a basketball.\n")
-        print("\"Yo, nice jukes Fay. 1v1 me psy\"\n")
+        print("\"Yo, nice jukes Fay. 1v1 me.\"\n")
         b8 = input("A. Accept his challenge\nB. Decline and keep running\n")
 
     if b7 in answer_C:
         print("Faateh attempts to slide under his mom\'s legs, but he is not athletic\n")
         print(color.BOLD + "Faateh slips and dies.\n" + color.END)
-        print("Score: 6/10")
+        print("Score: 0/10")
 
     if b8 in answer_A:
         print("\"Yeah man, let\'s go\"\n")
