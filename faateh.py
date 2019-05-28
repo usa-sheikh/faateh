@@ -6,7 +6,7 @@ answer_B = ["B", "b", "2"]
 answer_C = ["C", "c", "3"]
 yes = ["Y", "y", "yes", "Yes", "YES"]
 no = ["N", "n", "no", "No", "NO"]
-# secret h path if h is input!!
+
 class color:
    PURPLE = '\033[95m'
    CYAN = '\033[96m'
